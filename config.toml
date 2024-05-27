@@ -1,0 +1,11 @@
+[dir]
+data_default = "D:/Data/Behavior/"
+[daq]
+sampling_rate = 5000.0
+[cameras]
+sampling_rate = 300.0
+exposure_time = 500.0 
+names = ["camera_01","camera_02"]
+ports = [2,1]
+offset_x = 320.0
+offset_y = 464.0
