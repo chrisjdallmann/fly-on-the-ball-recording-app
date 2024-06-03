@@ -1,5 +1,5 @@
 [dir]
-data_default = "D:/Data/Behavior/"
+data_default = "D:/Data/"
 [daq]
 name = "Dev1"
 sampling_rate = 5000.0
