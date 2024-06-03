@@ -1,6 +1,7 @@
 [dir]
 data_default = "D:/Data/Behavior/"
 [daq]
+name = "Dev1"
 sampling_rate = 5000.0
 [cameras]
 sampling_rate = 300.0
