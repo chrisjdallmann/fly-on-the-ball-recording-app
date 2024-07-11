@@ -10,3 +10,4 @@ names = ["camera_01","camera_02"]
 ports = [2,1]
 offset_x = 320.0
 offset_y = 464.0
+figure_positions = [[10.0,610.0,560.0,420.0], [580.0,610.0,560.0,420.0]]
